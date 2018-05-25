@@ -1,0 +1,53 @@
+* {
+    font-family: cursive, sans-serif;
+}
+
+img {
+    width: 100%;
+    max-width: 900px;
+    height: auto;
+}
+
+
+/*header,
+footer {
+    border: 1px black solid;
+    text-align: center;
+    height: 100px;
+    color: blue;
+    font-size: 1cm;
+}
+
+#content {
+    border: 2px dotted green;
+    color: red;
+    width: 50%;
+}
+
+#sideMenu {
+    width: auto;
+    font-size: 1cm;
+}
+
+#noIde {
+    width: 70%;
+    color: green;
+}
+
+.withborder {
+    border: 1px solid grey;
+    color: blue;
+}
+
+.titolo {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1.titolo {
+    font-size: 44px;
+    text-decoration: underline;
+}*/
